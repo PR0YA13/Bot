@@ -1,0 +1,15 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram>=3.3.0",
+    "aioschedule>=0.5.2",
+    "pillow>=11.1.0",
+    "pytz>=2025.1",
+    "requests>=2.32.3",
+    "sendgrid>=6.11.0",
+    "trafilatura>=2.0.0",
+    "twilio>=9.4.6",
+]
